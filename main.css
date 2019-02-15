@@ -80,6 +80,7 @@ a:hover{
   min-width: 300px;
   display: inline-block;
   vertical-align: top;
+  padding-left:10px;
 }
 
 .post, .about{

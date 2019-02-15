@@ -1,12 +1,12 @@
-# HTML Blog Template
-Responsive Blog Template in HTML, Css and Js
+# Blog Template
+Responsive Blog Template in HTML, CSS and Js
 
 ## Getting Started
 It is complete ready to use Responsive blog template. It is basic website made in HTML, CSS.
 
-To View this Website online visit [HtmlBlogTemplate](https://htmlblogtemplate.iambharat.tk/) 
+To View this Website online visit [BlogTemplate](https://blogtemplate.iambharat.tk/) 
 ***or*** 
-Paste https://htmlblogtemplate.iambharat.tk/ in browser
+Paste https://blogtemplate.iambharat.tk/ in browser
 
 ### Show some :heart: and :star: the repo to support the project. 
 For more contact me @[facebook](https://www.facebook.com/bharatagsrwal), @[Twitter](https://www.twitter.com/bharatagsrwal) or @[Website](https://iambharat.tk)
@@ -23,7 +23,7 @@ I welcome and encourage all pull requests. It usually will take me within 10-21 
 2.  If its a feature, bugfix, or anything please only change code to what you specify.
 3.  Please keep PR titles easy to read and descriptive of changes, this will make them easier to merge :)
 4.  Pull requests _must_ be made against `develop` branch. Any other branch (unless specified by the maintainers) will get rejected.
-5.  Check for existing [issues](https://github.com/bharatagsrwal/htmlBlogTemplate/issues) first, before filing an issue.
+5.  Check for existing [issues](https://github.com/bharatagsrwal/blogTemplate/issues) first, before filing an issue.
 6.  Make sure you follow the set standard as all other projects in this repo do
 7.  Have fun!
 
@@ -41,7 +41,7 @@ This Project is Tested in Google Chrome browser.
 
 
 ## Facing Any Problem or need any Help?
-Write me in [issues](https://github.com/bharatagsrwal/htmlBlogTemplate/issues) section. I will try solve your issue within 10-12 hours.
+Write me in [issues](https://github.com/bharatagsrwal/blogTemplate/issues) section. I will try solve your issue within 10-12 hours.
 Keep Developing and Playing.
 
 ## Follow

@@ -11,15 +11,18 @@ Paste https://blogtemplate.iambharat.tk/ in browser
 ### Show some :heart: and :star: the repo to support the project. 
 For more contact me @[facebook](https://www.facebook.com/bharatagsrwal), @[Twitter](https://www.twitter.com/bharatagsrwal) or @[Website](https://iambharat.tk)
 ### Screenshots
+#### Desktop
 <img src="/Screenshots/blog1.jpg" height="200em" /> <img src="/Screenshots/blog3.jpg" height="200em" />
-<img src="/Screenshots/blog2.jpg" height="200em" />
+<img src="/Screenshots/blog2.jpg" height="200em" /><br>
+#### Mobile
+<img src="/Screenshots/blog4.jpg" height="300em" /> <img src="/Screenshots/blog5.jpg" height="300em" /> <img src="/Screenshots/blog6.jpg" height="300em" /> 
 
 
 # Pull Requests
 
 I welcome and encourage all pull requests. It usually will take me within 10-21 hours to respond to any issue or request. Here are some basic rules to follow to ensure timely addition of your request:
 
-1.  Match coding style (braces, spacing, etc.) This is best achieved using `Reformat Code` feature of Android Studio `CMD`+`Option`+`L` on Mac and `CTRL` + `ALT` + `L` on Linux + Windows .
+1.  Match coding style (braces, spacing, etc.) This is best achieved using `Reformat Code` feature of VS Code `SHIFT`+`Option`+`F` on Mac and `SHIFT` + `ALT` + `F` on Linux + Windows .
 2.  If its a feature, bugfix, or anything please only change code to what you specify.
 3.  Please keep PR titles easy to read and descriptive of changes, this will make them easier to merge :)
 4.  Pull requests _must_ be made against `develop` branch. Any other branch (unless specified by the maintainers) will get rejected.

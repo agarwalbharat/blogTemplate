@@ -28,6 +28,7 @@ body{
   float: left;
   font-size: 20px;
   font-weight: bold;
+  padding-left:5px;
 }
 
 #header-nav{

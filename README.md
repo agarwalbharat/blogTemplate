@@ -11,8 +11,9 @@ Paste https://htmlblogtemplate.iambharat.tk/ in browser
 ### Show some :heart: and :star: the repo to support the project. 
 For more contact me @[facebook](https://www.facebook.com/bharatagsrwal), @[Twitter](https://www.twitter.com/bharatagsrwal) or @[Website](https://iambharat.tk)
 ### Screenshots
-<img src="/Screenshots/blog1.jpg" height="200em" /> <img src="/Screenshots/blog2.jpg" height="200em" />
-<img src="/Screenshots/blog3.jpg" height="200em" />
+<img src="/Screenshots/blog1.jpg" height="220em" /> <img src="/Screenshots/blog3.jpg" height="220em" />
+<img src="/Screenshots/blog2.jpg" height="220em" />
+
 
 # Pull Requests
 

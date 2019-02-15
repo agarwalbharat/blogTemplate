@@ -15,7 +15,7 @@ For more contact me @[facebook](https://www.facebook.com/bharatagsrwal), @[Twitt
 <img src="/Screenshots/blog1.jpg" height="200em" /> <img src="/Screenshots/blog3.jpg" height="200em" />
 <img src="/Screenshots/blog2.jpg" height="200em" /><br>
 #### Mobile
-<img src="/Screenshots/blog4.jpg" height="300em" /> <img src="/Screenshots/blog5.jpg" height="300em" /> <img src="/Screenshots/blog6.jpg" height="300em" /> 
+<img src="/Screenshots/blog4.png" height="300em" /> <img src="/Screenshots/blog5.png" height="300em" /> <img src="/Screenshots/blog6.png" height="300em" /> 
 
 
 # Pull Requests

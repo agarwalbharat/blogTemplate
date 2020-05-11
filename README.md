@@ -4,12 +4,12 @@ Responsive Blog Template in HTML, CSS and Js
 ## Getting Started
 It is complete ready to use Responsive blog template. It is basic website made in HTML, CSS.
 
-To View this Website online visit [BlogTemplate](https://blogtemplate.iambharat.tk/) 
+To View this Website online visit [BlogTemplate](https://blogtemplate.iambharat.me/) 
 ***or*** 
-Paste https://blogtemplate.iambharat.tk/ in browser
+Paste https://blogtemplate.iambharat.me/ in browser
 
 ### Show some :heart: and :star: the repo to support the project. 
-For more contact me @[facebook](https://www.facebook.com/bharatagsrwal), @[Twitter](https://www.twitter.com/bharatagsrwal) or @[Website](https://iambharat.tk)
+For more contact me @[facebook](https://www.facebook.com/bharatagsrwal), @[Twitter](https://www.twitter.com/bharatagsrwal) or @[Website](https://iambharat.me)
 ### Screenshots
 #### Desktop
 <img src="/Screenshots/blog1.jpg" height="200em" /> <img src="/Screenshots/blog3.jpg" height="200em" />
@@ -39,7 +39,7 @@ I welcome and encourage all pull requests. It usually will take me within 10-21 
 
 ### Created By :sunglasses:
 [Bharat](https://github.com/bharatagsrwal) ([Facebook](https://www.facebook.com/bharatagsrwal)) ([Linkedin](https://www.linkedin.com/in/bharatagsrwal)) ([Hackerrank](https://www.hackerrank.com/bharatagsrwal))
-([Website](https://iambharat.tk))([Twitter](https://www.twitter.com/bharatagsrwal))
+([Website](https://iambharat.me))([Twitter](https://www.twitter.com/bharatagsrwal))
 
 ### Implementation :innocent:
 
@@ -57,5 +57,5 @@ Write me in [issues](https://github.com/bharatagsrwal/blogTemplate/issues) secti
 ## Follow :trophy:
 Follow me on :punch:
 [Bharat](https://github.com/bharatagsrwal) ([Facebook](https://www.facebook.com/bharatagsrwal)) ([Linkedin](https://www.linkedin.com/in/bharatagsrwal)) ([Hackerrank](https://www.hackerrank.com/bharatagsrwal))
-([Website](https://iambharat.tk))([Twitter](https://www.twitter.com/bharatagsrwal))
+([Website](https://iambharat.me))([Twitter](https://www.twitter.com/bharatagsrwal))
 
